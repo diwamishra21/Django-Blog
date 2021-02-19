@@ -1,0 +1,9 @@
+Django-Blog info-
+
+Blog-
+- Add /update blogs from Admin panel
+- Showing Blog's list on frontend dynamically
+- User can read single Blog post
+
+comment option from facebook Account
+
