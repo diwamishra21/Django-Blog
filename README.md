@@ -12,5 +12,5 @@ Block also contains Facebbok Comment Plugin. Through which one can commnet on bl
 - open this in your favourite browser
 
 ## Admin Login Credentials
-username - diwaker
-password- Diwa@Mishra
+* username - diwaker
+* password- Diwa@Mishra
